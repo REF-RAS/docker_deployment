@@ -29,3 +29,7 @@ https://gramaziokohler.github.io/compas_fab/0.21.1/examples/03_backends_ros/08_r
 # Comparison of Docker Container Performance 
 
 https://stackoverflow.com/questions/21889053/what-is-the-runtime-performance-cost-of-a-docker-container
+
+# Realtime Kernel Setup and Documentation
+
+https://github.com/2b-t/docker-realtime
