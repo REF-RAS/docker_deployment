@@ -1,4 +1,4 @@
-# Docker Robotic System Environment Deployment Package
+# Docker Robotic Environment Deployment Package
 ![QUT REF Collection](https://badgen.net/badge/collections/QUT%20REF-RAS?icon=github) [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
 This repo contains files for docker-based setup of system environments. The types of system environments are relevant for project development work of the Robotics and Autonomous Systems (RAS) group and the QUT Centre for Robotics (QCR).
