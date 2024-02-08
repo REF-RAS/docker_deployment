@@ -45,3 +45,11 @@ services:
             context: ./images/robot_arms/abb_humble_moveit
             dockerfile: Dockerfile
         image: abb_humble_moveit
+        # Addition of Realtime Settings (as per: https://github.com/2b-t/docker-realtime)
+        cap_add:
+            - SYS_NICE
+        ulimits:
+            rtprio: 99
+            rttime: -1 # corresponds to 'unlimited'
+            memlock: 8428281856
+        network_mode: host
