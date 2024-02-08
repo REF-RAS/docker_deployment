@@ -25,3 +25,11 @@ https://github.com/toddsampson/ros-docker/tree/master
 # Compass Setup Robot Model URDF Example
 
 https://gramaziokohler.github.io/compas_fab/0.21.1/examples/03_backends_ros/08_ros_create_moveit_package_from_custom_urdf.html
+
+# Comparison of Docker Container Performance 
+
+https://stackoverflow.com/questions/21889053/what-is-the-runtime-performance-cost-of-a-docker-container
+
+# Realtime Kernel Setup and Documentation
+
+https://github.com/2b-t/docker-realtime
