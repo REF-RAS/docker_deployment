@@ -63,8 +63,7 @@ services:
         build:
             context: ./images/base/armer
             dockerfile: Dockerfile
-        command: stdbuf -o L roslaunch armer armer.launch config:=/home/qcr/armer_ws/src/armer/cfg/panda_sim.yaml
-        # command: bash
+        command: bash
     moveit:
         extends:
             service: rosbase

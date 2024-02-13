@@ -27,6 +27,15 @@ services:
             context: ./images/robot_arms/xarm_noetic_moveit
             dockerfile: Dockerfile
         image: xarm_noetic_moveit
+    xarm-noetic-armer:
+        container_name: xarm-noetic-armer
+        extends:
+            file: base-compose.yaml
+            service: armer
+        build:
+            context: ./images/robot_arms/xarm_noetic_armer
+            dockerfile: Dockerfile
+        image: xarm_noetic_armer
     panda-humble-moveit:
         container_name: panda-humble-moveit
         extends:
