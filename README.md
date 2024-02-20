@@ -80,7 +80,7 @@ Every directory under `images` contains files relevant for building one image or
 
 To exploit docker images in the platform setup for a project, simply start with a base OS platform (Linux, Windows, or MacOS) installed with the suite of Docker Engine, Docker CLI and Docker Compose. 
 
-Refer to the [Docker installation page](./DOCKER_INSTALL.md) provided in this repo.
+Refer to the [Docker installation page](./docs/DOCKER_INSTALL.md) provided in this repo.
 
 Once the installation is successfully completed, the docker engine should be running in the background (as a service or daemon).
 
@@ -238,7 +238,7 @@ docker rmi $(docker images -f "dangling=true" -q)
 
 ## Creating New Images for a Project
 
-Refer to the [Setup of New Image](./SETUP.md) for suggestions and tips.
+Refer to the [Setup of New Image](./docs/SETUP.md) for suggestions and tips.
 
 ## Running a Docker Image at System Bootup
 
@@ -259,7 +259,7 @@ Docker offers an official docker image for setting up such a local docker hub (c
 
 ## Containarized Development
 
-Refer to the [Workshop: Containerized Development with Docker and Visual Studio Code](./CONTAINER_DEV.md) page.
+Refer to the [Workshop: Containerized Development with Docker and Visual Studio Code](./docs/CONTAINER_DEV.md) page.
 
 ## Author
 

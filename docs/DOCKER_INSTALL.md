@@ -7,3 +7,7 @@ An alternative method that works for Ubuntu (and other Linux platforms) is throu
 * [Docker Engine](https://docs.docker.com/engine/install/ubuntu/)
 * [Docker Compose Plugin](https://docs.docker.com/compose/install/linux/)
 
+Post install instructions are also important to follow for convenience:
+
+* [Docker Post Install Instructions](https://docs.docker.com/engine/install/linux-postinstall/)
+
