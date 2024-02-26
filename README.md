@@ -256,14 +256,14 @@ Docker offers an official docker image for setting up such a local docker hub (c
 
 [How to Use Your Own Registry](https://www.docker.com/blog/how-to-use-your-own-registry-2/)
 
-
 ## Containarized Development
 
 Refer to the [Workshop: Containerized Development with Docker and Visual Studio Code](./docs/CONTAINER_DEV.md) page.
 
-## Author
+## Developers
 
 Dr Andrew Lui, Senior Research Engineer <br />
+Dr Dasun Gunasinghe, Senior Research Engineer <br />
 Robotics and Autonomous Systems, Research Engineering Facility <br />
 Research Infrastructure <br />
 Queensland University of Technology <br />
