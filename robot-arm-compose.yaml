@@ -1,8 +1,5 @@
 # Copyright 2024 - Andrew Kwok Fai LUI and Dasun Gunasinghe
 # Research Engineering Facility, Queensland University of Technology (QUT)
-
-version: '3'
-
 # Higher-Level Definitions of Robot Arm Images
 # This compose file defines the links to its extension and image build file
 # NOTE:

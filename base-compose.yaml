@@ -1,8 +1,5 @@
 # Copyright 2024 - Andrew Kwok Fai LUI and Dasun Gunasinghe
 # Research Engineering Facility, Queensland University of Technology (QUT)
-
-version: '3'
-
 # Contains the base image definitions, usable for most image configurations
 # NOTE:
 #   - rosbase and ros2base have the main definitions (stdin_open, tty, privaleged, etc.)

@@ -1,8 +1,5 @@
 # Copyright 2024 - Andrew Kwok Fai LUI and Dasun Gunasinghe
 # Research Engineering Facility, Queensland University of Technology (QUT)
-
-version: '3'
-
 # Include Base/Default Packages
 include:
     - base-compose.yaml
